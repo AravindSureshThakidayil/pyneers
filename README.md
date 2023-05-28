@@ -5,7 +5,7 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. [Aravind Suresh Thakidayil](https://github.com/AravindSureshThakidayil)
-2. [Anandapadmanabhan V](https://github.com/Anandapadmanabhan V)
+2. [Anandapadmanabhan V](https://github.com/Anandapadmanabhan1912)
 3. [Sūraj Krishna](https://github.com/IAMSUPERBOY)
 ## Link to product walkthrough
 [link to video](Link Here)
